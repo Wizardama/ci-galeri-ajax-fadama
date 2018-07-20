@@ -1,0 +1,8 @@
+.push {
+	clear: both;
+	display: block;
+	height: 40px;
+}
+.larger {
+	height: 80px;
+}
